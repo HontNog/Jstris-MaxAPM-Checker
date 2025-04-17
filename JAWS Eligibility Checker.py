@@ -1,5 +1,5 @@
 # Jstris Max APM Checker by HontNog. Designed for TAWS' temporary Jstris tournaments.
-# WIP! NOT READY FOR USAGE IN TOURNAMENTS, SEEDING HAS NOT BEEN IMPLMENTED, THIS PROGRAM JUST CHECKS ELIGIBLITY.
+# WIP! SEEDING HAS NOT BEEN IMPLMENTED, THIS PROGRAM JUST CHECKS ELIGIBLITY.
 # I suck at Python, if you have any way to improve this program or find bugs, send me a dm on Discord at @hontnog
 try:
     import requests
