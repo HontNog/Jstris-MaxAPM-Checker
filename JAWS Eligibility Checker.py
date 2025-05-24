@@ -53,7 +53,7 @@ def getMaxAvg(attacksList):
     sumAPM = 0.0
     maxAPM = 0.0
     if len(attacksList) < 10:
-        print(name + " is not eligible: They hasn't played 10 Jstris games so an average APM cannot be calculated.")
+        print(name + " is not eligible: They haven't played 10 Jstris Live games so an average APM cannot be calculated.")
         sys.exit(0)
     for i in range (10): # Grab the first 10 games and sum them up.
         sumAPM += attacksList[i]
